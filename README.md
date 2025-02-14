@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Tofael Yeasin! 👋
 
-<!--
-**tofaely/tofaely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student studying **Computing** and passionate about learning to code. I'm currently exploring programming languages like **Python**, **Java**, and **C#**. I believe in continuous learning and enjoy solving problems through coding.
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 I’m currently learning **Python**, **Java**, and **C#**.
+- 🎓 I’m a student in the field of **Computing**.
+- 💡 I enjoy experimenting with code and building small projects to improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Programming Languages**: Python, Java, C#
+- **Tools**: Git, VS Code, IntelliJ IDEA
+- **Concepts**: Object-Oriented Programming (OOP), Data Structures, Algorithms
+
+## Goals
+- 🎯 Master the fundamentals of programming.
+- 🚀 Build more projects to deepen my understanding.
+- 🌟 Contribute to open-source projects in the future.
+
+---
+
+Feel free to connect with me! Let's learn and grow together. 😊
+Email:tofaely@gmail.com
