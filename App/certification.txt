@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the Quizy 1.0
+---------------------------------------------------
+
+app_name - 						Quizy
+app_alias - 					quizy
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Criuleni
+app_author_country - 			Moldova Republic of
+app_password - 					Srx44c1jULgL
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Thursday 27th of March 2025 03:36:48 PM
+
+https://www.webintoapp.com
+---------------------------------------------------
+
